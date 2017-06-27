@@ -41,7 +41,7 @@
 - Frontend Toolbox - our styleguide tool (new version is out) http://frontend.github.io/toolbox/
 - The Law of Leaky Abstractions https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
 - Technical debt https://antistatique.net/fr/nous/bloggons/2015/05/22/la-dette-technique
-
+- Design Styleguide exemple for PEGA https://design.pega.com/
 -----
 
 ## Installation
