@@ -24,7 +24,7 @@
   - Product development, styleguide less-more frontend oriented
   - A11Y!
   - Open!
-5. What we've learned from building swiss styleguide, and now Vaud
+5. What we've learned from building swiss styleguide
   - Tell the story ;-)
   - Going faster in the browser
   - Rationalize design (component matrix)
@@ -36,12 +36,29 @@
   - Reduce technical debt
   - Get your hands dirty, brake abstraction law!
 
+
+#### New structure proposition :-)
+
+1. Me
+2. Introduction
+3. How we came here (exemple of swiss government)
+4. From print to digital branding guideline
+5. What has change, what not
+6. Communicating branding guideline has to include web
+
+
+
 ## Sources
 - Full of ressources about styleguides by Brad Frost http://styleguides.io/ (exemples, podcasts, books, frameworks)
 - Frontend Toolbox - our styleguide tool (new version is out) http://frontend.github.io/toolbox/
 - The Law of Leaky Abstractions https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
 - Technical debt https://antistatique.net/fr/nous/bloggons/2015/05/22/la-dette-technique
 - Design Styleguide exemple for PEGA https://design.pega.com/
+
+
+## More about UN
+- http://www.un.org/styleguide/
+- http://www.un.org/styleguide/pdf/Guidelines_Use%20of%20UN%20EMBLEM_internal_Oct2013.pdf
 -----
 
 ## Installation
